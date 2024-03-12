@@ -1,16 +1,17 @@
-# flutter_grid_view
+# Практическая работа
+## Начальный скрин приложения 
 
-A new Flutter project.
+![image](https://github.com/CaptainPolyana/Grid_View1/assets/145181221/f9355e09-bbb1-41b6-890d-fd61ac550785)
 
-## Getting Started
+## Скрин приложения в карточке товара
+![image](https://github.com/CaptainPolyana/Grid_View1/assets/145181221/10ecd1d4-98c5-4634-8653-056fe322aed0)
 
-This project is a starting point for a Flutter application.
+## Работа свайпера
+![image](https://github.com/CaptainPolyana/Grid_View1/assets/145181221/ac1f37c9-3cf1-48f3-9417-6fb5728cb91b)
 
-A few resources to get you started if this is your first Flutter project:
+## Видеоролик, скролл описание и таблица характеристик
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/CaptainPolyana/Grid_View1/assets/145181221/d7c68f92-bbf5-413d-9929-0b6c7dce7fab)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
